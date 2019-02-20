@@ -9,6 +9,4 @@ hello-world/\.idea/modules\.xml
 
 hello-world/\.idea/workspace\.xml
 
-hello-world/\.exercism/metadata\.json
-
-two-fer/\.exercism/metadata\.json
+*/\.exercism/metadata\.json
