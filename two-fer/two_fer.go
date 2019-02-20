@@ -5,9 +5,8 @@ package twofer
 // if no name is found then 'you' is substituted in.
 func ShareWith(name string) string {
 	if name == "" {
-		return "One for you, one for me."
+		name = "you"
 	}
 
 	return "One for " + name + ", one for me."
-
 }
